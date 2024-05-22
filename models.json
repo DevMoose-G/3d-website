@@ -1,0 +1,34 @@
+{"models": [
+  {
+    "title": "muse gimicael",
+    "description": "I am an undergraduate at Columbia University, studying Computer Science.<br/><br/>Model: where's your head at? by Max Level [CC-BY] via Poly Pizza",
+    "subtitle": "The creator of the site",
+    "date": "09 09 2002",
+    "videos": [],
+    "images": []
+  },
+  {
+    "title": "critica",
+    "description": "Critica is a platform where you can share your takes on the newest albums being released.<br/><br/>Available on the Apple App Store & the Google Play Store.",
+    "subtitle": "a music discussion app",
+    "date": "23 03 2022",
+    "videos": [],
+    "images": ["critica-screenshot.png"]
+  },
+  {
+    "title": "ihop",
+    "description": "<i>ihop</i> is a quadrupedal robot designed for stability and utility.\n\t\t\t\tAble to freely control all four limbs in pitch and yaw, it can serve as a mini-waiter, able to transport small objects.\n\t\t\t\t<br/><br/>Created for Robotics Studio at Columbia University",
+    "subtitle": "the latest inventions from Muse",
+    "date": "14 12 2023",
+    "videos": ["simulate-robot.mp4", "robot-walk.mp4"],
+    "images": []
+  },
+  {
+    "title": "the broken forge",
+    "description": "Play as a blacksmith trying to make ends meet to fix their store.<br/><br/><a href=\"https://tres-leches.itch.io/the-broken-forge\">Link to Game</a>",
+    "subtitle": "a simulation game",
+    "date": "09 07 2023",
+    "videos": [],
+    "images": []
+  }
+]}
